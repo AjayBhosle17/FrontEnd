@@ -1,0 +1,22 @@
+.loader{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 20px solid #e70f74;
+    border-top: 20px solid rgb(49, 220, 19);
+    
+    animation: dadu 2s ease-in infinite normal;
+
+    /* background-color: pink; */
+}
+
+@keyframes dadu{
+
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}

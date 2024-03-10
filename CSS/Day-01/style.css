@@ -1,0 +1,29 @@
+body{
+    background-color:aqua;
+    
+}
+/* #box{
+
+    background-color: blue;
+} */
+
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    text-decoration: blanchedalmond 2px solid underline;
+    font-weight: 200;
+}
+
+h3{
+    text-align: start;
+    background-color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+
+}
+
+.one{
+
+    font-size: 15px;
+    text-transform: uppercase;
+}

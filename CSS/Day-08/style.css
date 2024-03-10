@@ -1,0 +1,47 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+body{
+    background-image: url("trip_sea.jpg");
+    /* background-size: cover; */
+    background-size: contain;
+}
+/* 
+.box1{
+    position: static;
+    bottom: 10px;
+}
+
+.box2{
+    position: relative;
+    top: 190px;
+} */
+/* .box3{ */
+    /* position: absolute; */
+    /* bottom: 30px; */
+    /* position: sticky;
+    top: 0px;
+    left: 120px;
+     */
+    
+/* } */
+/* 
+.box4{
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    /* top: 20px; */
+/* } */ 
+
+.box2{
+    height: 600px;
+    width: 600px;
+    background-image: url("trip_sea.jpg");
+    background-size: cover;
+    
+}
+

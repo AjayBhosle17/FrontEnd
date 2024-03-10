@@ -1,0 +1,33 @@
+.navbar{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-evenly;
+}
+ 
+li{
+    list-style-type: none;
+    
+}
+
+a{
+    background-color: rgb(239, 109, 23);
+    text-decoration: none;
+    color: rgb(23, 24, 23);
+}
+
+.Outer{
+    background-color: chartreuse;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.Inner{
+
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    align-self: start;
+}
+
