@@ -13,3 +13,10 @@ console.log(profile);
 console.log(profile.followers);
 
 console.log(profile['posts'])
+
+
+let age=15;
+
+if(age==16){
+    console.log("age=15")
+}
